@@ -1,7 +1,13 @@
-Ask
-===
+Question
+========
 
 Micro library to ask things to user from shell.
+
+Install
+-------
+```shell
+npm install question
+```
 
 Api
 ---
