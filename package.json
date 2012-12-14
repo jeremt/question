@@ -1,0 +1,6 @@
+{
+  "name": "question",
+  "description": "Micro library to ask things to user from shell.",
+  "author": "JeremieT",
+  "version": "0.0.1"
+}
