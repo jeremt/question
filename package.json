@@ -1,6 +1,7 @@
 {
   "name": "question",
   "description": "Micro library to ask things to user from shell.",
-  "author": "JeremieT",
+  "main": "question.js",
+  "author": "Jeremie Taboada",
   "version": "0.0.1"
 }
